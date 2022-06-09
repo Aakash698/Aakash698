@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aakash698.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning MERN stack for full stack development.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ashvilliers17@gmail.com
 
 <!---
